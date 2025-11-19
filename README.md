@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Trigger push
 
-# Football-shop
+# Football-news
 
 [![Build Status](https://app.bitrise.io/app/515a5aaf-2bc5-424a-adc1-8a111015b0b1/status.svg?token=6oj5h5YITyAYTCuKo0F-UQ&branch=main)](https://app.bitrise.io/app/515a5aaf-2bc5-424a-adc1-8a111015b0b1)
 
