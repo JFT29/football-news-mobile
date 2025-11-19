@@ -16,3 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Trigger push
+
+# Football-shop
+
+[![Build Status](https://app.bitrise.io/app/515a5aaf-2bc5-424a-adc1-8a111015b0b1/status.svg?token=6oj5h5YITyAYTCuKo0F-UQ&branch=main)](https://app.bitrise.io/app/515a5aaf-2bc5-424a-adc1-8a111015b0b1)
+
+## Download
+Download the latest version of the application: [Download APK](https://app.bitrise.io/app/515a5aaf-2bc5-424a-adc1-8a111015b0b1/installable-artifacts/512fad7735afe29c/public-install-page/9b24b32b578c0192d2c0940867c70f5d)
